@@ -1,0 +1,16 @@
+{
+  "name": "lavalink-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lavalink": "java -jar Lavalink.jar"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "erela.js": "^1.1.8"
+  }
+}
